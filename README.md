@@ -8,11 +8,14 @@
 * Lady Watcher and her book club/possible __cult__, related to disappearing servants?
 * __St Androl's__ church - Why did the vampires want to attack it?
 * __Festival__ of the Blazing Sun
-* What's the deal with the old __pie crone__ at the windmill and her ichor?
+* What's the deal with the old __pie crone__ at the windmill and her ichor? Children go in, don't come out
 * Find the __leather bundle__ south of the Ivlis river, return to Bildrath
-* Dather Donavich's son is a lycanthrope
 * __Ghosts__ - shephard on the road to Ravenloft, graveyard at midnight
 * Return __Lancelot__ to Mad Mary, or not
+* Great __wizard__, Mount Barotok
+* Father Donavich's son is a vampire
+* Can get a loan from Vasiliy
+* Town of Kresk
 
 ---
 
@@ -44,6 +47,7 @@
 * Letter not Kolyan's handwriting
 * Bildraths Mercantile - Periwemple
 * SIDE QUEST: leather bundle south of the Ivlis river, return to Bildrath
+* Order of the Feather
 
 ### DREAM
 
@@ -77,7 +81,7 @@ Fortune telling:
 
 > * Abjurer     - Better know your enemy. I see a fallen house guarded by a great stone dragon look to the highest peak
 > * Myrmidon    - A holy symbol of great hope. Look for a den of wolves in the hills overlooking a mountain lake. The treasure belongs to mother night.
-> * Monk        - Power and strength. Weapon of vengeance, a sword of sunlight. Treasure hidden behind sun, in the house of ascent.
+> * Monk        - Power and strength. Weapon of vengeance, a sword of sunlight. Treasure hidden behind sun, in the house of ascent
 > * Beast       - Someone help us in the battle against darkness. Werewolf holds secret hatred against enemy. She can help.
 > * Broken one  - Creature of darkness, powers beyond mortality. This card will lead you to him. He haunts the tomb of the man he envied above all.
 
@@ -135,6 +139,85 @@ Fortune telling:
     * Householders called Guards
 * Arrested, stripped of weapons, thrown out of town
 
-## Strahd confrontation
+## Kicked out of VALLAKI
 
-...
+* Barrel of strong wine
+* Invite to the castle
+* Dinner party
+* Elf servant Ralph
+* Ireena's soul belongs to Strahd
+* Tattiana's soul trapped in her body, Strahd's lover
+* Strahd wants an heir, could be one of us
+* Confronted Strahd, he asked us to kill the Baron of Vallaki
+* Trapped Lancelot and closed the doors
+* Walked back to the village of Barovia, found a leather bundle with clothes and wolf paws (Father Donavich's son?)
+* Father Donavich has killed himself, yelling coming from church
+* Went to church, attacked by vampire, killed it
+* Explored cellar, nothing there, chains broken
+* Took Eric to Ismarck's, locked him in the shed incase he turned into a vampire, stayed the night
+
+## Ismarck
+
+* Great wizard, Mount Barotok
+    * North of Zarovich lake
+    * Same wizard from the earlier story, who was thrown down the waterfall
+* Festival on in 5 days
+
+## Road back to VALLAKI
+
+* Mysterious man gave us our weapons back
+* Order of the Feather, meet them at the Blue Water Inn
+* Vasiliy the accountant traveller with the wagon, met on the road
+* Innkeeper fallen out with the Wizards of Wine
+* Vasiliy is trying to court Ireena
+* Trying to get rid of the Baron, wants to ally with Lady Watcher as a means to an end
+* Plan forms to put Ireena in power
+* VAMPIRE FACTS from Vasiliy's book
+    * Daylight not as effective as you think
+    * Garlic prevents healing
+    * Holy water acts like acid
+    * Burn the corpse
+    * Bury the ashes at dusk or dawn, whichever is sooner
+    * Cold steel weapons
+    * Claws and teeth
+    * Urban legend, they CANNOT turn into bats
+    * The bite has to have intent behind it to turn
+* Featherboi revealed by a flock of ravens
+
+## VALLAKI Part 2: Electric Boogaloo
+
+* Sneaks us in through gap in the south fence
+* Passed Blinski's toy shop
+* Let into side door of Inn with a secret knock
+* Clandestine meeting with Urwin Martikov and Danika - owners of the inn
+* Order of the Feather fight against Strahd for hundreds of years
+* By the time they followed up on the vampires at the coffin shop, they had disappeared
+* Spread thin, use ravens to communicate
+* Wizards of the Wine falling out
+    * Davian is Urwin's father
+    * Urwin blames him for a spate of bad luck at the vineyard
+* Chidlren go into windmill and don't come out
+
+## VALLAKI VISTANI CAMP
+
+* Approach through forest
+* Hear shouting for Arabelle
+* Alexis being whipped inside the encampment
+* Louvash - whipper
+* Accuses Alexis of being responsible for Arabelle's disapperance
+* Handed him note given to us by Ilasah at the Tser Pool
+* Aragol, Louvash's Brother, apologises for Louvash
+* Neither of them recognise the name Ilasah. Her note was blank.
+* Stole horses and ran off
+* Disembodied female voice cast a curse on us
+    * Bendeith - Is blinded - Not cured by Lesser Restoration
+    * Thefaren - Made to look ugly like an orc
+    * Lord Eric - ?
+    * Hekktor - Shaking hands, can't cast spells with a somatic component
+    * Barry - Forgotten how to play instruments
+* 2 Vistani caught up with us, fight...
+
+## WIZARD OF WINES
+
+* Man in dark cloak and cowl stands in trees beckoning
+Ending midday of the 3rd day, of 5 to the festival
