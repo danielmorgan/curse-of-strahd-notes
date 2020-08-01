@@ -15,7 +15,7 @@
 * Great __wizard__, Mount Barotok
 * Father Donavich's son is a vampire
 * Can get a loan from Vasiliy
-* Town of Kresk
+* Town of Krezk
 
 ---
 
@@ -182,6 +182,7 @@ Fortune telling:
     * Claws and teeth
     * Urban legend, they CANNOT turn into bats
     * The bite has to have intent behind it to turn
+    * Vulnerable in running water
 * Featherboi revealed by a flock of ravens
 
 ## VALLAKI Part 2: Electric Boogaloo
@@ -219,5 +220,34 @@ Fortune telling:
 
 ## WIZARD OF WINES
 
-* Man in dark cloak and cowl stands in trees beckoning
-Ending midday of the 3rd day, of 5 to the festival
+* Headed to house
+* Man in dark cloak and cowl stands in trees beckoning - Davian
+* Ending midday of the 3rd day, of 5 to the festival
+
+## Speaking to [REDACTED]
+
+[HIDDEN FROM THE REST OF THE PARTY]
+
+## WIZARD OF WINES
+
+* Swarms of ravens fluttering about the man
+* 3 colleagues appear
+* Druids (more than 1) preventing them from getting to the wine
+* Hoard of needleblights concealed in vineyard
+* Snuck past them
+* Woman on balcony drinking wine from storage tanks, ravens watching from rafters, twigblights on the floor
+* Beat up twigblights and druids, ravens help
+* Secret bedroom, tapestry of unrecognisable church
+* Chest with money - 50g, 270e, 350s
+* Extra-hidden-section in chest - locket with picture of lady, 5x gemstones worth 50gp
+* Extra-extra-hidden-room with meeting table
+* Childs toys, rocking horse with firey mane, Beucephalus "Is no fun is no blinsky"
+* Printing press, more druid fighting
+* Found a small key, perhaps for a padlock (for barred door at front?)
+* Basement full of needleblights and a druid
+* Raven totem in basement
+* 3 wines, champagne du le stomp, 10y ago the magical seed was stolen, cant make that wine again, acorn seed red ruby
+* All magical seeds gone
+* Seeds stolen and taken to Yesterhill and Berez, a few weeks ago
+* We pledged to find the seeds in exchange for Davian sending wine to Vallaki instead of Krezk
+* Druids at Yesterhill have one of the seeds
