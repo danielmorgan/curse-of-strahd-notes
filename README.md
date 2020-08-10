@@ -248,6 +248,38 @@ Fortune telling:
 * Raven totem in basement
 * 3 wines, champagne du le stomp, 10y ago the magical seed was stolen, cant make that wine again, acorn seed red ruby
 * All magical seeds gone
-* Seeds stolen and taken to Yesterhill and Berez, a few weeks ago
+* Seeds stolen and taken to Yesterhill (green) and Berez, a few weeks ago
 * We pledged to find the seeds in exchange for Davian sending wine to Vallaki instead of Krezk
 * Druids at Yesterhill have one of the seeds
+
+## Yesterhill
+
+* Talking rock monument, ghost appears, one eyed Kavan
+* Disciples of Roxanna AKA Martikov
+* Ladies Three - three ladies of nature of the land
+    * Eye of the Seeker
+    * Tree of the Weaver
+    * Wolf of the Hunter
+* Kerunos, old name of Barovia
+* Forest People split into two groups
+    * Delmorians - Ruling class
+    * The Faithless - Bitter underclass - helped Strahd, attacked the winery
+* Lost his spear on the hill
+* Succesfully snuck up hill, disguised as cairns
+* 50ft twig statue at top of hill, towering cloaked man with fangs, gem in heart
+    * Sent illusion into the stone circle to distract the druids
+    * Bendeith snuck towards statue to steal gem
+    * Saw through the illusion and fireball'd the wickerman statue
+    * Bendeith survived, badly burned, got the gem, Strahd disappeared and we escaped
+* Druids finished a tree summoning ritual, it chased us back to the vineyard where we stood and fought
+
+## RIP: Hekktor
+
+During the attack with the Tree Blight Barry and Hekktor were mortally wounded. Lord Eric had decided to keep range on the tree, since he was already badly wounded by it, and justifying it knowing he was the only one who could Spare the Dying and as such, needed to sruvive more than anyone else. Near the end Bendeith also fell, knocked unconcious and bleeding to death. Lord Eric had pulled too far back and could not reach Hekktor before the Tree Blight ate him. The Delmorian veterans finished off the Tree Blight.
+
+Lord Eric feels incredibly guilty about how his over-caution led to the death of Hekktor, but finds some solace in the fact that he was able to save his friends Barry and Bendeith.
+
+## The Wizards of Wine
+
+* Davian suggests we pay tribute to Hekktor by naming a wine after him
+    * Hekktor's Fireball Wine - in honour of the fact he never got to cast Fireball
