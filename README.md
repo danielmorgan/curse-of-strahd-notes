@@ -2,18 +2,17 @@
 
 ## Open threads and unanswered questions
 
-* Trouble at the __Winery__ - Erwinn and his father lives at the winery, deliveries to Vallaki have stopped
-* __Baron's son__ and his betrothed (daughter of Lady Watcher)
-* Creepy attic in Baron's house, related to __disappearing servants__?
-* Lady Watcher and her book club/possible __cult__, related to disappearing servants?
+* Wine seeds - ~Yesterhilll~, Berez, Unknown
+* __Viktor's__ betrothed (daughter of Lady Watcher)
+* Lady Watcher and her book club/possible __cult__
 * __St Androl's__ church - Why did the vampires want to attack it?
-* __Festival__ of the Blazing Sun
+* __Festival__ of the Blazing Sun - Circus man with sabretooth tiger
+* Shapeshifters in Vallaki
 * What's the deal with the old __pie crone__ at the windmill and her ichor? Children go in, don't come out
 * Find the __leather bundle__ south of the Ivlis river, return to Bildrath
 * __Ghosts__ - shephard on the road to Ravenloft, graveyard at midnight
 * Return __Lancelot__ to Mad Mary, or not
 * Great __wizard__, Mount Barotok
-* Father Donavich's son is a vampire
 * Can get a loan from Vasiliy
 * Town of Krezk
 
@@ -79,7 +78,7 @@ Fortune telling:
 
 #### :flower_playing_cards: Tarroka cards
 
-> * Abjurer     - Better know your enemy. I see a fallen house guarded by a great stone dragon look to the highest peak
+> * Abjurer     - Better know your enemy. I see a fallen house guarded by a great stone dragon look to the highest peak.
 > * Myrmidon    - A holy symbol of great hope. Look for a den of wolves in the hills overlooking a mountain lake. The treasure belongs to mother night.
 > * Monk        - Power and strength. Weapon of vengeance, a sword of sunlight. Treasure hidden behind sun, in the house of ascent
 > * Beast       - Someone help us in the battle against darkness. Werewolf holds secret hatred against enemy. She can help.
@@ -258,7 +257,7 @@ Fortune telling:
 * Disciples of Roxanna AKA Martikov
 * Ladies Three - three ladies of nature of the land
     * Eye of the Seeker
-    * Tree of the Weaver
+    * Tree of the Weaver - elevated above the others
     * Wolf of the Hunter
 * Kerunos, old name of Barovia
 * Forest People split into two groups
@@ -283,3 +282,65 @@ Lord Eric feels incredibly guilty about how his over-caution led to the death of
 
 * Davian suggests we pay tribute to Hekktor by naming a wine after him
     * Hekktor's Fireball Wine - in honour of the fact he never got to cast Fireball
+* Berez, ruined village, magical hermit lives there, enemy of The Order of the Feather
+
+## Berez
+
+* Old lady Jenny hates Strahd
+* Her sister is a witch who serves Strahd
+* Jenny gave us a potion of healing each, and a 1hr potion of invisibility and a wooden coin we can flip to summon her
+* She disappeared into thin air
+* Scarecrows and whispers
+* Stone circle across river, we wade across
+* Shrine, three ladies, lamp sat on top, dagger
+    * Ladies of the nature of the land?
+    * Or the witches coven?
+* Little girl runs out, motions to keep quiet
+* Old women ask what we're doing here, take a ring and our taroka cards
+* Baba Lasaka
+* Witches Coven
+* Strahd is Babba's son?
+
+## Death of Barry
+
+Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse reanimated and walked towards her as we fled.
+
+## Retreat to Vallaki
+
+* Hekktor's head on a pike in the road, pinecone in eye socket and letter in mouth, disappeared in a flash of lightning
+* Shapeshifters in Vallaki
+* Travelling man from the circus, unleashed a sabretooth tiger during the festivities, chased out of town
+* Baron and Isaac come to vet us, Isaac is escorting us around town because we got kicked out
+* Raven sigil covered guy outside tavern
+* Urwin talking to chainmail covered man
+* Both turn out to be the new PCs, interviewed to join the party
+* Isaac drunk and passed out
+* Vasiliy tells us Ireena has been kidnappeed
+* Purple flashes from Baron's attic
+* Ilasah's daughter is dead - drunk man found body, told to us by Blinski
+* Isaac buys toys from Blinski
+* Mentor was Fritz Von Ghreer
+* Blinski got his monkey from circus man
+* Clockwork man, made by mentor, in Castle Ravenloft. If we recover it Blinski will give us his monkey Mojo.
+
+## Sneaking into the Baron's house
+
+* Man in 2nd floor chained up, Udo
+* Spoke out against Baron, we freed him
+* In attic, young man with a grey streak of hair
+* Broken teleportation circle, disappearing servants
+* Vampire spawn in teleportation spell
+* Teleportation circle
+* His spell book has sigil sequences 3 permanent teleportation circles, somewhere in Barovia
+* He was killed by some magic fit
+* We took his head in hopes of speaking to it with magic the next day
+* Hid his head in the Ethereal Realm, adjacent to my tavern room
+
+## The church
+
+* Father Lucian speaks druidic, druids were pissed with us basically
+* Mount Baratok is all the way north
+
+## Baron's house
+
+* Isaac moves us on, the baron is grieving his son
