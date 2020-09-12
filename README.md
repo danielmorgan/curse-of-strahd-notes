@@ -2,6 +2,7 @@
 
 ## Open threads and unanswered questions
 
+* Speak to Viktor's head about his spell book, where is Ireena, and the teleportation circles
 * Wine seeds - ~Yesterhilll~, Berez, Unknown
 * __Viktor's__ betrothed (daughter of Lady Watcher)
 * Lady Watcher and her book club/possible __cult__
@@ -14,7 +15,10 @@
 * Return __Lancelot__ to Mad Mary, or not
 * Great __wizard__, Mount Barotok
 * Can get a loan from Vasiliy
-* Town of Krezk
+* Sword at the Abbey
+* Sheep killed by monster, from Abbey?
+* Missing head
+* Wedding dress
 
 ---
 
@@ -104,7 +108,7 @@ Fortune telling:
 * Mounted wolves heads on the walls
 * Trouble at the Winery - Erwinn and his father lives at the winery
 * We have missed a festival - the wolf's head jamboree - 3 days ago
-* Isaac, bald man, entered tavern,took us to Baron
+* Izek, bald man, entered tavern,took us to Baron
 * Festival of the Blazing Sun coming up
 * Lady Watcher
     * Baron's servants disappearing
@@ -128,7 +132,7 @@ Fortune telling:
     * Riktavio the ringmaster
         * Told a story of Cora Batcha, half orc woman that bit through her chains
         * Took apple and steak from behind the bar and left
-    * Talked to Isaac about the baron's house
+    * Talked to Izek about the baron's house
         * Vargas, Lady Lydia wife of the Baron
         * Purple flashes in attic windows
 * Heade to Lady Watcher's house
@@ -310,15 +314,15 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 * Hekktor's head on a pike in the road, pinecone in eye socket and letter in mouth, disappeared in a flash of lightning
 * Shapeshifters in Vallaki
 * Travelling man from the circus, unleashed a sabretooth tiger during the festivities, chased out of town
-* Baron and Isaac come to vet us, Isaac is escorting us around town because we got kicked out
+* Baron and Izek come to vet us, Izek is escorting us around town because we got kicked out
 * Raven sigil covered guy outside tavern
 * Urwin talking to chainmail covered man
 * Both turn out to be the new PCs, interviewed to join the party
-* Isaac drunk and passed out
+* Izek drunk and passed out
 * Vasiliy tells us Ireena has been kidnappeed
 * Purple flashes from Baron's attic
 * Ilasah's daughter is dead - drunk man found body, told to us by Blinski
-* Isaac buys toys from Blinski
+* Izek buys toys from Blinski
 * Mentor was Fritz Von Ghreer
 * Blinski got his monkey from circus man
 * Clockwork man, made by mentor, in Castle Ravenloft. If we recover it Blinski will give us his monkey Mojo.
@@ -343,4 +347,75 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 
 ## Baron's house
 
-* Isaac moves us on, the baron is grieving his son
+* Izek moves us on, the baron is grieving his son
+
+## Invited to Lady Watcher's for lunch
+
+* Mr Earnest Lanak led us to the house
+* 1 large portrait, 7 smaller portraits
+* Lady Watcher is freaky for tieflings
+* Vistani have beer
+* Baron Vargas Valovich - cruel bloodline of despots, cowardly, spends too freely
+* Father Vargon - tyrant, torturer
+* Izek - Brute, deformed
+* Knew Strahd when she was a child - Diplomatic, calm, neglectful landlord
+* Wants to exile Vargas and his family and take his place
+* Wants us to take care of Izek - will tell us where Ireena is
+* Imp familiar - Majesto
+* Pentagram is purely for show - She's tricking locals to her cause
+
+## Speaking to the Order of the Feather
+
+* Izek seen following Ireena and Vasiliy before her disappearance
+* Urwin seems to think Lady Watcher is more powerful than she lets on
+
+## Izek and Ireena
+
+* Izek is Ireena's brother
+* We kill Lady Watcher
+* I Disguise Self as Ireena, talk to Izek
+* Izek thinks "They" were gonna take her, he means us
+* Convince him to take me back to his protection, I Blink into the spirit realm as we go into the Baron's manor
+* He storms out when Ireena (me) disappears and he finds Ireena (real) in her room chained up
+* I blink bank into Ireena's room and say I'm there to resuce her
+* Izek has been seeing visions of Ireena
+* Had lots of dolls made of her
+* Lady Watcher told them they're brother and sister
+
+## Planning to go to  Krezk
+
+* Dimitry Krezkov - Burgomaster
+* Abbott can raised the dead
+* Went back to tavern to get head from ethereal realm, disappeared
+
+## Road to Krezk
+
+* Dead little girl along the road killed by a direwolf some days ago
+
+## Krezk
+
+* Met Dimitry Krezkov
+* Strahd has wolves, zombies, soldiers
+* Krezkov has a wife and son
+* Statue of bare chested man, the Morning Lord, by glittering pool
+
+## Abbey
+
+* FREAKS greeted us at the gates, guarding it, Zygfrek and Otto Belview, Mongrel Folk
+* The Abbott greets us
+* Morninglord grants him his power of raising the dead
+* Dangerous mongrelfolk being kept safe by the Abbott
+* Symbol of the sun in the abbey
+* Vasillika, constructed as a bride for Strahd
+* Sword on the table, sun on the wall, got kicked out for trying to go for it
+
+## Dinner with the Burgomeister
+
+* Dinner with Dimitry, Anna (wife) and Ilya (son)
+* Ilya was dead, Abbott brought him back to life
+* Dimitry and Anna were poor and wed young
+* Dressmaker in Vallaki
+* Sheep being killed inside the walls, every night 3-8 sheep disappear for a couple of days
+* Need to speak to whoever is in charge of the sheep pen
+* Luka Babou watching over the sheep pen tonight
+* Wall broken, Luka distracted, sheep gone
