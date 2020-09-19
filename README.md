@@ -2,13 +2,10 @@
 
 ## Open threads and unanswered questions
 
-* Speak to Viktor's head about his spell book, where is Ireena, and the teleportation circles
+* ~Speak to Viktor's head about his spell book, where is Ireena, and the teleportation circles~ Who took the head?
 * Wine seeds - ~Yesterhilll~, Berez, Unknown
-* __Viktor's__ betrothed (daughter of Lady Watcher)
-* Lady Watcher and her book club/possible __cult__
 * __St Androl's__ church - Why did the vampires want to attack it?
-* __Festival__ of the Blazing Sun - Circus man with sabretooth tiger
-* Shapeshifters in Vallaki
+* __Festival__ of the Blazing Sun - Circus man with sabretooth tiger - Shapeshifters in Vallaki
 * What's the deal with the old __pie crone__ at the windmill and her ichor? Children go in, don't come out
 * Find the __leather bundle__ south of the Ivlis river, return to Bildrath
 * __Ghosts__ - shephard on the road to Ravenloft, graveyard at midnight
@@ -16,9 +13,11 @@
 * Great __wizard__, Mount Barotok
 * Can get a loan from Vasiliy
 * Sword at the Abbey
-* Sheep killed by monster, from Abbey?
+* Sheep killed by monster. NOT from Abbey. Werewolves?
 * Missing head
-* Wedding dress
+* Wedding dress - Burgomeister's wife headed to Vallaki to pick up
+* Soulless baby
+* Ezmerelda
 
 ---
 
@@ -419,3 +418,35 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 * Need to speak to whoever is in charge of the sheep pen
 * Luka Babou watching over the sheep pen tonight
 * Wall broken, Luka distracted, sheep gone
+
+## Breaking into Abbey of St Markovia
+
+* 2 headed man playing violin, Clovin
+* Northern building holds more mongrels
+* Evidence of surgeries
+* Shadows, memories of the dead, in the hospital wing attack us
+* Ezmerelda the vistani, apprenticed to Rudolf Van Rickten the great vampire hunter
+* Ezmerelda has free reign of the abbey, but intends to ambush Strahd
+* Lost leg to a werewolf
+* Mishka the mongrelfolk, feeds on humans not sheeps
+* Speaking to the abbott
+* Strahd's curse
+* Sunsword was saught by the abbott to lift the curse, but it is inert
+* Has a mind of it's own, difficult to control, the sword has desires
+* He's trying to give strahd something to love, we could give Ireena to him
+* He sent the burgomeister's wife to get a wedding dress
+
+## Back to Krezk
+
+* Light illuminating pool, Morninglord statue glows gold and old man turns young, looks like a young pleasant Strahd, Sergei von Zarovich, brother to Strahd
+* Sergei was set to be married to Tattiana, Strahd killed him out of jealousy. She truly loved Sergei not Strahd.
+* Prince and man of faith
+* Ireena recognises him as if she is Tattiana
+* Tattiana threw herself off the castle walls because she couldn't bear a life without Sergei
+
+## Sun sword
+
+* Sergei makes us decide: Tattiana can go with him into the afterlife now. Ireena will die. Or he can activate the sunsword
+* After debate, we decide the latter. Sergei statue turns back to stone and Tattiana/Ireena grieves for him.
+* On the way home we hear a scream and enter a house where a woman is giving birth.
+* Dimeera giving birth, child alive, but not crying. Midwife: "The child has no soul"
