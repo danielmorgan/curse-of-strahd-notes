@@ -5,19 +5,17 @@
 * ~Speak to Viktor's head about his spell book, where is Ireena, and the teleportation circles~ Who took the head?
 * Wine seeds - ~Yesterhilll~, Berez, Unknown
 * __St Androl's__ church - Why did the vampires want to attack it?
-* __Festival__ of the Blazing Sun - Circus man with sabretooth tiger - Shapeshifters in Vallaki
+* Circus man with sabretooth tiger
 * What's the deal with the old __pie crone__ at the windmill and her ichor? Children go in, don't come out
 * Find the __leather bundle__ south of the Ivlis river, return to Bildrath
 * __Ghosts__ - shephard on the road to Ravenloft, graveyard at midnight
 * Return __Lancelot__ to Mad Mary, or not
 * Great __wizard__, Mount Barotok
 * Can get a loan from Vasiliy
-* Sword at the Abbey
 * Sheep killed by monster. NOT from Abbey. Werewolves?
-* Missing head
 * Wedding dress - Burgomeister's wife headed to Vallaki to pick up
 * Soulless baby
-* Ezmerelda
+* Ezmerelda, potential ally, The Beast card
 
 ---
 
@@ -141,7 +139,7 @@ Fortune telling:
     * Householders called Guards
 * Arrested, stripped of weapons, thrown out of town
 
-## Kicked out of VALLAKI
+### Kicked out of VALLAKI
 
 * Barrel of strong wine
 * Invite to the castle
@@ -158,14 +156,14 @@ Fortune telling:
 * Explored cellar, nothing there, chains broken
 * Took Eric to Ismarck's, locked him in the shed incase he turned into a vampire, stayed the night
 
-## Ismarck
+### Ismarck
 
 * Great wizard, Mount Barotok
     * North of Zarovich lake
     * Same wizard from the earlier story, who was thrown down the waterfall
 * Festival on in 5 days
 
-## Road back to VALLAKI
+### Road back to VALLAKI
 
 * Mysterious man gave us our weapons back
 * Order of the Feather, meet them at the Blue Water Inn
@@ -187,7 +185,7 @@ Fortune telling:
     * Vulnerable in running water
 * Featherboi revealed by a flock of ravens
 
-## VALLAKI Part 2: Electric Boogaloo
+### VALLAKI Part 2: Electric Boogaloo
 
 * Sneaks us in through gap in the south fence
 * Passed Blinski's toy shop
@@ -201,7 +199,7 @@ Fortune telling:
     * Urwin blames him for a spate of bad luck at the vineyard
 * Chidlren go into windmill and don't come out
 
-## VALLAKI VISTANI CAMP
+### VALLAKI VISTANI CAMP
 
 * Approach through forest
 * Hear shouting for Arabelle
@@ -220,17 +218,17 @@ Fortune telling:
     * Barry - Forgotten how to play instruments
 * 2 Vistani caught up with us, fight...
 
-## WIZARD OF WINES
+### WIZARD OF WINES
 
 * Headed to house
 * Man in dark cloak and cowl stands in trees beckoning - Davian
 * Ending midday of the 3rd day, of 5 to the festival
 
-## Speaking to [REDACTED]
+### Speaking to [REDACTED]
 
 [HIDDEN FROM THE REST OF THE PARTY]
 
-## WIZARD OF WINES
+### WIZARD OF WINES
 
 * Swarms of ravens fluttering about the man
 * 3 colleagues appear
@@ -254,7 +252,7 @@ Fortune telling:
 * We pledged to find the seeds in exchange for Davian sending wine to Vallaki instead of Krezk
 * Druids at Yesterhill have one of the seeds
 
-## Yesterhill
+### Yesterhill
 
 * Talking rock monument, ghost appears, one eyed Kavan
 * Disciples of Roxanna AKA Martikov
@@ -275,19 +273,19 @@ Fortune telling:
     * Bendeith survived, badly burned, got the gem, Strahd disappeared and we escaped
 * Druids finished a tree summoning ritual, it chased us back to the vineyard where we stood and fought
 
-## RIP: Hekktor
+### RIP: Hekktor
 
 During the attack with the Tree Blight Barry and Hekktor were mortally wounded. Lord Eric had decided to keep range on the tree, since he was already badly wounded by it, and justifying it knowing he was the only one who could Spare the Dying and as such, needed to sruvive more than anyone else. Near the end Bendeith also fell, knocked unconcious and bleeding to death. Lord Eric had pulled too far back and could not reach Hekktor before the Tree Blight ate him. The Delmorian veterans finished off the Tree Blight.
 
 Lord Eric feels incredibly guilty about how his over-caution led to the death of Hekktor, but finds some solace in the fact that he was able to save his friends Barry and Bendeith.
 
-## The Wizards of Wine
+### The Wizards of Wine
 
 * Davian suggests we pay tribute to Hekktor by naming a wine after him
     * Hekktor's Fireball Wine - in honour of the fact he never got to cast Fireball
 * Berez, ruined village, magical hermit lives there, enemy of The Order of the Feather
 
-## Berez
+### Berez
 
 * Old lady Jenny hates Strahd
 * Her sister is a witch who serves Strahd
@@ -304,11 +302,11 @@ Lord Eric feels incredibly guilty about how his over-caution led to the death of
 * Witches Coven
 * Strahd is Babba's son?
 
-## Death of Barry
+### Death of Barry
 
 Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse reanimated and walked towards her as we fled.
 
-## Retreat to Vallaki
+### Retreat to Vallaki
 
 * Hekktor's head on a pike in the road, pinecone in eye socket and letter in mouth, disappeared in a flash of lightning
 * Shapeshifters in Vallaki
@@ -326,7 +324,7 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 * Blinski got his monkey from circus man
 * Clockwork man, made by mentor, in Castle Ravenloft. If we recover it Blinski will give us his monkey Mojo.
 
-## Sneaking into the Baron's house
+### Sneaking into the Baron's house
 
 * Man in 2nd floor chained up, Udo
 * Spoke out against Baron, we freed him
@@ -339,16 +337,16 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 * We took his head in hopes of speaking to it with magic the next day
 * Hid his head in the Ethereal Realm, adjacent to my tavern room
 
-## The church
+### The church
 
 * Father Lucian speaks druidic, druids were pissed with us basically
 * Mount Baratok is all the way north
 
-## Baron's house
+### Baron's house
 
 * Izek moves us on, the baron is grieving his son
 
-## Invited to Lady Watcher's for lunch
+### Invited to Lady Watcher's for lunch
 
 * Mr Earnest Lanak led us to the house
 * 1 large portrait, 7 smaller portraits
@@ -363,12 +361,12 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 * Imp familiar - Majesto
 * Pentagram is purely for show - She's tricking locals to her cause
 
-## Speaking to the Order of the Feather
+### Speaking to the Order of the Feather
 
 * Izek seen following Ireena and Vasiliy before her disappearance
 * Urwin seems to think Lady Watcher is more powerful than she lets on
 
-## Izek and Ireena
+### Izek and Ireena
 
 * Izek is Ireena's brother
 * We kill Lady Watcher
@@ -381,24 +379,24 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 * Had lots of dolls made of her
 * Lady Watcher told them they're brother and sister
 
-## Planning to go to  Krezk
+### Planning to go to  Krezk
 
 * Dimitry Krezkov - Burgomaster
 * Abbott can raised the dead
 * Went back to tavern to get head from ethereal realm, disappeared
 
-## Road to Krezk
+### Road to Krezk
 
 * Dead little girl along the road killed by a direwolf some days ago
 
-## Krezk
+### Krezk
 
 * Met Dimitry Krezkov
 * Strahd has wolves, zombies, soldiers
 * Krezkov has a wife and son
 * Statue of bare chested man, the Morning Lord, by glittering pool
 
-## Abbey
+### Abbey
 
 * FREAKS greeted us at the gates, guarding it, Zygfrek and Otto Belview, Mongrel Folk
 * The Abbott greets us
@@ -408,7 +406,7 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 * Vasillika, constructed as a bride for Strahd
 * Sword on the table, sun on the wall, got kicked out for trying to go for it
 
-## Dinner with the Burgomeister
+### Dinner with the Burgomeister
 
 * Dinner with Dimitry, Anna (wife) and Ilya (son)
 * Ilya was dead, Abbott brought him back to life
@@ -419,7 +417,7 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 * Luka Babou watching over the sheep pen tonight
 * Wall broken, Luka distracted, sheep gone
 
-## Breaking into Abbey of St Markovia
+### Breaking into Abbey of St Markovia
 
 * 2 headed man playing violin, Clovin
 * Northern building holds more mongrels
@@ -436,7 +434,7 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 * He's trying to give strahd something to love, we could give Ireena to him
 * He sent the burgomeister's wife to get a wedding dress
 
-## Back to Krezk
+### Back to Krezk
 
 * Light illuminating pool, Morninglord statue glows gold and old man turns young, looks like a young pleasant Strahd, Sergei von Zarovich, brother to Strahd
 * Sergei was set to be married to Tattiana, Strahd killed him out of jealousy. She truly loved Sergei not Strahd.
@@ -444,7 +442,7 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 * Ireena recognises him as if she is Tattiana
 * Tattiana threw herself off the castle walls because she couldn't bear a life without Sergei
 
-## Sun sword
+### Sun sword
 
 * Sergei makes us decide: Tattiana can go with him into the afterlife now. Ireena will die. Or he can activate the sunsword
 * After debate, we decide the latter. Sergei statue turns back to stone and Tattiana/Ireena grieves for him.
