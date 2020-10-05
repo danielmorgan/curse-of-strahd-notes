@@ -448,3 +448,19 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 * After debate, we decide the latter. Sergei statue turns back to stone and Tattiana/Ireena grieves for him.
 * On the way home we hear a scream and enter a house where a woman is giving birth.
 * Dimeera giving birth, child alive, but not crying. Midwife: "The child has no soul"
+
+### Next day in Krezk
+
+* Luka Babou was accused of killing the sheep, Zone of Truth acquits him, but the townspeople want justice for their impending starvation
+* We silnce the mob and hear a woman screaming in fear, running from a creature on all fours, which gets away from us
+* Found a dead villager with chunks bitten from him, human footprints around, clues matching the sheep attack, no trace to follow, the creature leapt away
+* The burgeomeister mentions Whiteclaw, female werewolf, she does not attack Krezk normally, lives south of Krezk near the river. She has a pack of direwolves. Hunts traders, bandits, travellers.
+* But the creature that attacked has rows of teeth like a shark.
+* Headed up to the abbey, the abbott is out
+* Abbey basement has a bottle of champagne du le stomp - made with the third gem, scroll found inside
+* Clovin is upstairs, next to a body under a sheet, partially decayed, left arm missing, tools indicating the abbott was performing his experiments on the corpse, and stitching together another bride
+* On the road back encounter a creature - [Ilya transformed](https://www.aidedd.org/dnd/images/the-hungry.jpg)
+
+### Death of Lord Eric
+
+Ilya ate his face as Lord Eric died trying to save his friends.
