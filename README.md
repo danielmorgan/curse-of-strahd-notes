@@ -464,3 +464,51 @@ Baba Lasaka's house stomped the bard, then she fingered him to death. His corpse
 ### Death of Lord Eric
 
 Ilya ate his face as Lord Eric died trying to save his friends.
+
+## Grigory the Blind Gravedigger's notes from the Amber Temple
+
+### Conversation with a Lich
+
+Has a friend - Neferron, studies dark powers
+
+vampyr spirit corrupted strahd
+
+### Endgame
+
+1. kill strahd in combat
+1. retreats to crypt to regain strength for 24h
+1. find crypt
+1. summon tether to vampyr using the chip of amber from Strahd's sarcophogus we got from the Lich
+1. magically attuned person focus on severing the tether
+1. kill strahd for realsies
+
+Strahd's sarcophogus is in the South Eastern crypt of Ravenloft dungeons
+
+### Places of power
+
+druids worshipped godesses, then showed the places to strahd, and he attuned himself to the lands of barovia
+
+Each needs a specific ritual to summon the godesses and reconsecrate the place of power.
+
+1. The great tree Yesterhill
+    1. Mountain
+    1. Survive a personal journey through the caverns under the tree to prove the worth of their soul
+1. Ruins of Berez
+    1. Swamp
+    1. Provide a great service to the weaver goddess and prove their respect and servitude
+    1. Use the heart of Baba Lysaga?
+1. Town between vallaki and barovia, windmill
+    1. Forest
+    1. Face your own possible dark future, how far you could have fallen
+    1. Hags that were trapped in barovia from the country it was before it became a demiplane
+
+### Were-ravens
+
+Mystical artifact necklace
+Hold vampires and turn the undead
+
+### Remaining Tarroka cards
+
+* Miser - Look for a fortress, inside a fortress, in a place hidden by fire
+* Healer - Look to the west, find a pool blessed by the light of the white sun
+* Tempter - A secret place, a vault of temptation, a woman of great beauty, an evil awaits atop his tower of pleasure
